@@ -1,0 +1,12 @@
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/grpc-java/pt/tecnico/addressbook/grpc/AddressBookServiceGrpc.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/ListPeopleRequest.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/SearchPersonRequest.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/AddPersonResponse.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/AddressBookProtobuf.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/AddPersonResponseOrBuilder.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/AddressBookList.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/PersonInfoOrBuilder.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/PersonInfo.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/ListPeopleRequestOrBuilder.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/AddressBookListOrBuilder.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/contract/target/generated-sources/protobuf/java/pt/tecnico/addressbook/grpc/SearchPersonRequestOrBuilder.java

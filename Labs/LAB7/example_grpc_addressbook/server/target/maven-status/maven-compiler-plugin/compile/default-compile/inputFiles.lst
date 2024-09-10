@@ -1,0 +1,6 @@
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/AddressBookServer.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/domain/exception/DuplicatePersonInfoException.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/domain/exception/PersonNotFoundException.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/AddressBookServiceImpl.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/domain/Person.java
+/home/jmclc/SD/LAB7/example_grpc_addressbook/server/src/main/java/pt/tecnico/addressbook/server/domain/AddressBook.java
